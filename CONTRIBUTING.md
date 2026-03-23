@@ -9,4 +9,6 @@ The below data scientists from Headmind Partners AI  did contribute to build thi
 - Pierre-Louis Perez
 - Thomas Taylor
 - Vathana Thy 
+- Florent Villenave
+- Pauline Vinchon
 - Valentin Yiu
